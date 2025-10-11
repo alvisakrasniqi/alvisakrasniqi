@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alvisa</h1>
 <h4 align="left">🎓Junior at Case Western Reserve University, studying Computer Science and Economics</h4>
-<h4 align="left">🔭Aspiring Data Scientist and Machine Learning Engineer </h4>
+<h4 align="left">🔭Aspiring Machine Learning Engineer </h4>
 
 
 <p align="left"> Having lived in multiple countries and experienced diverse cultures, I’ve developed a global mindset that shapes how I approach innovation, technology, and problem-solving. I'm passionate about building inclusive, resilient, and forward-thinking systems. Whether it's using AI to improve education, rethinking infrastructure through data-driven research, or elevating entrepreneurship at scale, I’m driven by the belief that thoughtful innovation can transform industries and expand access for underrepresented communities. <p>
